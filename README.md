@@ -10,6 +10,8 @@
 
 ## Worth Notting
 
+This program works really sloppy.
+
 This program does not override your original level.
 
 This program is not perfect and though it does copy hitsounds it does not copy hit samples.
