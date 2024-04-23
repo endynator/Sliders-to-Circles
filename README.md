@@ -1,6 +1,4 @@
-## Make your level "circle-only" in a few steps 
-
-Convert every slider into 2 circles: 1 at the slider's head, 2 at the slider's end.
+## Make your "circle-only" level
 
 ## Step-by-Step Usage guide
 
