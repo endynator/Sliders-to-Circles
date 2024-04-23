@@ -52,7 +52,8 @@ int main() {
 	for (const auto& circle : circles) {
 		for (const auto& spinner : spinners) {
 			if (spinner.timeInt < circle.timeInt) {
-				outputFile << spinner.x << ',' << spinner.y << ',' << spinner.type << spinner.hitSound
+				// Spinner type 15???
+				outputFile << spinner.x << ',' << spinner.y << ',' << "15" << spinner.hitSound
 					<< spinner.endTime << spinner.hitSample << endl;
 			}
 		}
